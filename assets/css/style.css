@@ -1,0 +1,11 @@
+.navbar {
+  font-family: "Source Serif Pro", serif;
+}
+
+.jumbotron {
+  min-height: 500px;
+  padding-top: 175px;
+  background-color: #457b9d;
+  color: white;
+  text-align: center;
+}
