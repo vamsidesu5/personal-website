@@ -9,3 +9,31 @@
   color: white;
   text-align: center;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Source Serif Pro", serif;
+}
+
+p {
+  font-family: "Abhaya Libre", serif;
+}
+
+#about {
+  margin-bottom: 30px;
+}
+
+.btn {
+  background-color: #457b9d;
+  color: white;
+}
+
+.abmepic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
