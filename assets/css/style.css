@@ -39,3 +39,41 @@ p {
   margin-left: auto;
   margin-right: auto;
 }
+
+/* Portfolio */
+
+#portfolio {
+  background-color: #457b9d;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#portfolio h5 {
+  font-weight: 700px;
+}
+
+.card {
+  border-radius: 9px;
+  padding: 7px;
+}
+
+.card-image-top {
+  margin-right: 10px;
+  border-radius: 9px;
+}
+
+.card-footer {
+  background-color: white;
+  border: transparent;
+}
+
+/* Contact Me */
+
+#contact-me {
+  margin: 30px 0px;
+}
+
+.embed-responsive {
+  border-radius: 9px;
+  margin: 30px 0px;
+}
